@@ -1,9 +1,9 @@
 import streamlit as st
 from datetime import datetime
-import openai
+# import openai
 import requests
 import os
-api_key = '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'
+# api_key = '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'
 openai.api_key = api_key
 
 
