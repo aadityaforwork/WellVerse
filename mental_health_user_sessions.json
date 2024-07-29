@@ -1,0 +1,802 @@
+[
+    {
+        "_id": "b2dc7a35-daa3-43a3-b676-22c4b32038d3",
+        "userId": "benjaminsantiago",
+        "date": "2024-02-06",
+        "time": "04:52:34",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "sad",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "81871c9e-851c-4fcd-b6d1-2f2a0817668a",
+        "userId": "shaun84",
+        "date": "2024-01-14",
+        "time": "13:03:22",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Mindfulness and meditation can be very effective in managing stress. There are many free resources and apps that can guide you through the process."
+    },
+    {
+        "_id": "54b1a263-945d-4d20-a693-33c8df58e9f6",
+        "userId": "christopherthomas",
+        "date": "2024-02-21",
+        "time": "06:14:33",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "sad",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "ce72d691-1954-4f39-9614-e3f7b67e42e9",
+        "userId": "heidiholt",
+        "date": "2024-01-18",
+        "time": "15:49:31",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "e979e1f8-7b8d-4a1f-87c2-ec86a9fb74ca",
+        "userId": "bowenkristopher",
+        "date": "2024-02-08",
+        "time": "11:42:10",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "sad",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "0bab0f45-33c4-4f2d-83b0-b79752aa5e2c",
+        "userId": "anthonywilliams",
+        "date": "2024-01-25",
+        "time": "03:09:01",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "6ceb5c2c-a10e-4694-994a-08f3c6804ff3",
+        "userId": "jenkinsjaime",
+        "date": "2024-01-06",
+        "time": "09:38:34",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "2f486032-034a-4b40-9dc9-9c55de2d4e45",
+        "userId": "williamsjulie",
+        "date": "2024-01-12",
+        "time": "04:13:08",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "sad",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "b7755b41-a68f-4a35-90ef-b6889e9fbed6",
+        "userId": "dylan18",
+        "date": "2024-02-10",
+        "time": "00:48:46",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "9d6555d8-f003-4450-bd40-69e3a07a6633",
+        "userId": "tammy48",
+        "date": "2024-01-06",
+        "time": "22:16:39",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "ac835c3b-d006-4302-8bd8-89bc9c6c67a2",
+        "userId": "awolfe",
+        "date": "2024-02-19",
+        "time": "09:07:10",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "sad",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "cee62bfb-d022-4460-92bd-a50f866ea46f",
+        "userId": "thomasdesiree",
+        "date": "2024-01-01",
+        "time": "16:10:25",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "anxious",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "4fc21587-a514-4bcf-ab30-56c080cfd835",
+        "userId": "skennedy",
+        "date": "2024-01-14",
+        "time": "08:43:59",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "99378b6e-0afe-4bbe-9d7e-59fbcd4bd39f",
+        "userId": "michaelgreene",
+        "date": "2024-01-21",
+        "time": "10:50:37",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "87dac2a6-5fa7-4040-b9c8-49253cdde1d9",
+        "userId": "davidmelendez",
+        "date": "2024-01-06",
+        "time": "21:41:06",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "edd4ca9f-39ec-4691-a270-7123c16c17bf",
+        "userId": "uhall",
+        "date": "2024-02-01",
+        "time": "11:52:52",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "sad",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "77aac004-ea24-41e8-aadd-7617381fcf52",
+        "userId": "zpatel",
+        "date": "2024-02-07",
+        "time": "06:04:57",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "7a18ec0b-7f46-40fd-92de-732cc13dd01d",
+        "userId": "garciamichael",
+        "date": "2024-02-06",
+        "time": "18:14:46",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "stressed",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "2a8df31f-734b-40b2-ae4d-c5467237ecfc",
+        "userId": "cunninghamsuzanne",
+        "date": "2024-01-22",
+        "time": "10:32:23",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "e2472926-3546-4924-ad3e-403816395641",
+        "userId": "shannonrichard",
+        "date": "2024-01-23",
+        "time": "16:05:32",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "cb77e785-c877-4b8f-a533-4e7a8696eb85",
+        "userId": "coreylambert",
+        "date": "2024-02-16",
+        "time": "07:18:46",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "daa8cf78-3a40-4aa3-9135-a1d1d35e77ab",
+        "userId": "thomas16",
+        "date": "2024-02-16",
+        "time": "01:35:11",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "d438dde0-752d-46f0-b3b0-94e1de7c36ef",
+        "userId": "terrinelson",
+        "date": "2024-01-27",
+        "time": "08:34:51",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "content",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "9b67fabe-b8be-42bd-a0bf-9636fdf0ff87",
+        "userId": "thomasjessica",
+        "date": "2024-02-20",
+        "time": "03:37:13",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "happy",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "8baef79c-4b2e-468a-a043-36ac5980e4b9",
+        "userId": "gabrielahoward",
+        "date": "2024-01-17",
+        "time": "19:54:18",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "worried",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "0dfe41b1-fb7a-4c45-bb7b-d5f876353bfa",
+        "userId": "danielcalhoun",
+        "date": "2024-02-13",
+        "time": "08:09:11",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "worried",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "07f703dc-01b1-496d-8368-c6d0eacabc41",
+        "userId": "jessicamosley",
+        "date": "2024-02-17",
+        "time": "01:33:20",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "stressed",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "cdaf5bab-cebd-46f3-8224-e61762a676aa",
+        "userId": "danabeasley",
+        "date": "2024-02-08",
+        "time": "00:27:35",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "worried",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "4dc782b3-9c5b-4a97-8143-43105b04923c",
+        "userId": "dianaavery",
+        "date": "2024-01-17",
+        "time": "00:58:31",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "sad",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "6550a8c5-5251-47ce-8a36-b25880c47d99",
+        "userId": "hartjoseph",
+        "date": "2024-01-29",
+        "time": "06:39:57",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "worried",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "980d29af-440d-40d5-ab15-3b87f7110a2d",
+        "userId": "druiz",
+        "date": "2024-01-17",
+        "time": "05:30:28",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "worried",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "ee1caac5-15a7-4eed-86b3-5ed96c00f80c",
+        "userId": "kevinsimpson",
+        "date": "2024-01-07",
+        "time": "11:46:01",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "happy",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "5685e72b-2f1b-4d62-b7b3-a598bb19a51f",
+        "userId": "maryharris",
+        "date": "2024-02-10",
+        "time": "11:35:01",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "content",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "fa616db1-c98f-417b-8e8a-e5db6f3c16cc",
+        "userId": "seanparker",
+        "date": "2024-01-17",
+        "time": "12:56:27",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "0ef1930f-313a-4882-aa28-aa5853c72eac",
+        "userId": "charlesgraham",
+        "date": "2024-01-07",
+        "time": "10:43:43",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "fc583844-1f46-4e11-877e-fffb30b63316",
+        "userId": "ftrevino",
+        "date": "2024-01-27",
+        "time": "02:23:56",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "stressed",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    },
+    {
+        "_id": "9c068e6f-4340-4f05-8dbe-d6250027b8b5",
+        "userId": "ledwards",
+        "date": "2024-01-24",
+        "time": "19:05:36",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "happy",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "25f32bd5-0d73-4597-ab9c-7855276da668",
+        "userId": "crossjudy",
+        "date": "2024-02-19",
+        "time": "22:30:55",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "content",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "bba07838-5529-46ac-9f1f-05691e44e203",
+        "userId": "jason71",
+        "date": "2024-02-22",
+        "time": "01:40:36",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "53d9e396-372c-4e13-afc4-c202db10bc5e",
+        "userId": "alyssa03",
+        "date": "2024-01-21",
+        "time": "15:58:21",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "content",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "304a4089-3235-447b-bd5d-926b288e060b",
+        "userId": "petersonmegan",
+        "date": "2024-02-04",
+        "time": "06:43:01",
+        "questionsAsked": [
+            "What's on your mind right now?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I'm really not sure how I'm feeling.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "ea075597-40e9-4daa-b584-d60f506892c2",
+        "userId": "portiz",
+        "date": "2024-02-03",
+        "time": "06:19:13",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "efed70ac-87ab-498c-aab6-33d5cff64b99",
+        "userId": "ywilliams",
+        "date": "2024-01-19",
+        "time": "03:08:18",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been struggling more than usual.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "content",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "b48657bb-521c-4fdf-90d1-c326428d3e56",
+        "userId": "laurajohnson",
+        "date": "2024-01-17",
+        "time": "20:28:18",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "happy",
+        "botAdvice": "Setting a regular sleep schedule and ensuring you get enough rest can significantly impact your mood and well-being."
+    },
+    {
+        "_id": "1ff9520a-556f-4941-93f0-5985f089bbde",
+        "userId": "smithlauren",
+        "date": "2024-02-11",
+        "time": "20:15:48",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "089510b0-1a5d-4094-aa37-c54ad1502c3c",
+        "userId": "lisahouse",
+        "date": "2024-02-04",
+        "time": "12:43:57",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I haven't really talked to anyone about this."
+        ],
+        "mood": "happy",
+        "botAdvice": "Regular physical activity can improve your mood and reduce feelings of anxiety and depression."
+    },
+    {
+        "_id": "df72559b-45b9-4c8b-9b56-e3c514eb9c79",
+        "userId": "jeffrey83",
+        "date": "2024-02-11",
+        "time": "20:57:40",
+        "questionsAsked": [
+            "How are you feeling today?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Writing down your thoughts and feelings can sometimes help you understand them more clearly and see solutions you hadn't before."
+    },
+    {
+        "_id": "a00e679f-fffa-4df0-98da-2a2ace7a1f05",
+        "userId": "jeffrey08",
+        "date": "2024-01-16",
+        "time": "02:20:28",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to stay positive, but it's hard."
+        ],
+        "mood": "hopeful",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "510b020c-8f23-4a84-a2f1-966b63b1d682",
+        "userId": "smithmonica",
+        "date": "2024-01-18",
+        "time": "02:08:04",
+        "questionsAsked": [
+            "Can you tell me how your day went?",
+            "Is there something in particular that's been bothering you?"
+        ],
+        "responses": [
+            "I've been feeling quite anxious lately.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "anxious",
+        "botAdvice": "Consider taking a short break to do something you enjoy. Sometimes, a little distraction can be very helpful."
+    },
+    {
+        "_id": "b4a6ee93-a4fa-49b5-89c4-406da0907d6c",
+        "userId": "hoffmansteven",
+        "date": "2024-01-04",
+        "time": "15:58:37",
+        "questionsAsked": [
+            "How have you been coping with your feelings?",
+            "Have you tried any relaxation techniques like deep breathing or meditation?"
+        ],
+        "responses": [
+            "Today was a bit better than yesterday.",
+            "I've been trying to keep busy."
+        ],
+        "mood": "stressed",
+        "botAdvice": "It's important to recognize your feelings. Have you tried talking to someone you trust about what you're going through?"
+    }
+]
