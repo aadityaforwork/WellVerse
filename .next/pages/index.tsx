@@ -154,7 +154,7 @@ const Home: NextPage = () => {
             </div>
           </div>
           <div className="w-full">
-            {/* <Canvas>
+            <Canvas>
               <ambientLight intensity={0.5} />
               <spotLight position={[10, 10, 10]} angle={0.15} penumbra={1} />
               <pointLight position={[-10, -10, -10]} />
@@ -165,7 +165,7 @@ const Home: NextPage = () => {
                 speed={1}
               />
               <OrbitControls />
-            </Canvas> */}
+            </Canvas>
           </div>
         </div>
         <div className="flex justify-start w-full mt-10 mb-8 md:mt-0">
@@ -413,28 +413,28 @@ const Home: NextPage = () => {
 
 export default Home;
 
-// const SpinningMesh = ({ position, color, speed, args }: any) => {
-//   const mesh = useRef<THREE.Mesh>(null!);
-//   useFrame(() => (mesh.current.rotation.x = mesh.current.rotation.y += 0.01));
+const SpinningMesh = ({ position, color, speed, args }: any) => {
+  const mesh = useRef<THREE.Mesh>(null!);
+  useFrame(() => (mesh.current.rotation.x = mesh.current.rotation.y += 0.01));
 
-//   const [expand, setExpand] = useState(false);
-//   return (
-//     <mesh
-//       position={position}
-//       ref={mesh}
-//       onClick={() => setExpand(!expand)}
-//       castShadow
-//     >
-//       <boxBufferGeometry attach="geometry" args={args} />
-//       <MeshWobbleMaterial
-//         color="green"
-//         speed={speed}
-//         attach="material"
-//         factor={0.6}
-//       />
-//     </mesh>
-//   );
-// };
+  const [expand, setExpand] = useState(false);
+  return (
+    <mesh
+      position={position}
+      ref={mesh}
+      onClick={() => setExpand(!expand)}
+      castShadow
+    >
+      <boxBufferGeometry attach="geometry" args={args} />
+      <MeshWobbleMaterial
+        color="green"
+        speed={speed}
+        attach="material"
+        factor={0.6}
+      />
+    </mesh>
+  );
+};
 
 // function Box(props: JSX.IntrinsicElements["mesh"]) {
 //   const mesh = useRef<THREE.Mesh>(null!);
